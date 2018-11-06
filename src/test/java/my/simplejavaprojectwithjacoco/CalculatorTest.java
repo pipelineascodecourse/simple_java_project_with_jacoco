@@ -28,14 +28,14 @@ public class CalculatorTest {
 //		
 //	}
 	
-	@Test
-	public void testMultiply()
-	{
-		
-		Calculator calculator = new Calculator();
-		int result = calculator.multiply(6, 2);
-		assertEquals(12, result);		
-	}
+//	@Test
+//	public void testMultiply()
+//	{
+//		
+//		Calculator calculator = new Calculator();
+//		int result = calculator.multiply(6, 2);
+//		assertEquals(12, result);		
+//	}
 	
 	@Test
 	public void testDivide()
