@@ -17,7 +17,7 @@ public class CalculatorTest {
 		
 	}
 	
-	@Test
+/*	@Test
 	public void testMinus()
 	{
 	
@@ -43,5 +43,5 @@ public class CalculatorTest {
 		Calculator calculator = new Calculator();
 		int result = calculator.divide(6, 2);
 		assertEquals(3, result);		
-	}	
+	}*/	
 }
