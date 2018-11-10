@@ -8,7 +8,7 @@ import my.simplejavaprojectwithjacoco.Calculator;
 
 public class CalculatorTest {
 	
-	@Test
+/*	@Test
 	public void testAdd()
 	{
 	
@@ -35,7 +35,7 @@ public class CalculatorTest {
 		Calculator calculator = new Calculator();
 		int result = calculator.multiply(6, 2);
 		assertEquals(12, result);		
-	}
+	}*/
 
 	@Test
 	public void testDivide()
