@@ -8,7 +8,7 @@ import my.simplejavaprojectwithjacoco.Calculator;
 
 public class CalculatorTest {
 	
-	@Test
+/*	@Test
 	public void testAdd()
 	{
 	
@@ -26,7 +26,7 @@ public class CalculatorTest {
 		int result = calculator.minus(4, 1);
 		assertEquals(3, result);
 		
-	}
+	}*/
 	
 	@Test
 	public void testMultiply()
